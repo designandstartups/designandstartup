@@ -1,0 +1,151 @@
+@import url('https://fonts.googleapis.com/css?family=Montserrat:300,400,500,600');
+
+html{
+    font-family: 'Montserrat', sans-serif;
+    box-sizing: border-box;
+}
+
+body{
+    width: 1200px;
+    margin: auto;
+}
+
+header-image{
+    background-image: url(images/people.jpg);
+    background-size: cover;
+    height: 100vh;
+}
+
+/**Navigation Bar**/
+.above{
+    height: 100%;
+}
+
+header.home-navigation{
+    position: relative;
+    height: 250px;
+}
+
+home-logo{
+    position: relative;
+}
+.big-logo{
+    font-family: Montserrat-Medium;
+    font-size: 59px;
+    color: #FFFFFF;
+    letter-spacing: 1.5px;
+    line-height: 63px;
+    position: absolute;
+    left: 115px;
+    top: 0px;
+}
+nav.navigation{
+    position: absolute;
+    right: 115px;
+    top: 65px;
+}
+ul.nav{
+    list-style-type: none;
+    margin: 0px;
+    padding: 0px;
+}
+li{
+    float: left;
+    margin-left: 60px;
+}
+
+li a{
+    display: block;
+    padding: 10px;
+    text-decoration: none;
+    font-family: Montserrat;
+    font-weight: 400;
+    font-size: 16px;
+    color: #FFFFFF;
+    letter-spacing: 1.5px;
+}
+
+li a:active{
+    border-bottom: 2px solid #fff;
+}
+
+/* JULY 17 9AM–4PM */
+.above{
+  height: 680px;
+}
+.date-place{
+    position: relative;
+}
+.date-place:after{
+    content:"";
+    display: table ;
+    clear:both;
+}
+div.date{
+    position: absolute;
+    left: 170px;
+}
+p.home-date{
+    font-family: Montserrat-Medium;
+    font-size: 32px;
+    color: #FFFFFF;
+    letter-spacing: 7.5px;
+    text-align: right;
+}
+/* ALICE TULLY HALL */
+div.place{
+    position: absolute;
+    left: 420px;
+    top: 20px;
+}
+.home-place{
+    font-family: Montserrat;
+    font-size: 16px;
+    color: #FFFFFF;
+    letter-spacing: 3.73px;
+    line-height: 24px;  
+}
+
+.home-place span{
+    font-family: Montserrat-SemiBold;
+}
+
+.arrow{
+    background-image: url(/images/arrow.png);
+    width: 43px;
+    height: 24px;
+    background-size: cover;
+    left: 50%;
+    cursor: pointer;
+    background-position: center;
+    bottom: 50px;
+    position: absolute;
+}
+
+/* DESIGN SECTION*/
+.design{
+    position: relative;
+}
+.info{
+  position: absolute;
+  left: 130px;
+}
+p.what-is-design{
+  font-family: Montserrat-Medium;
+  font-size: 40px;
+  color: #FFFFFF;
+  letter-spacing: 1px;
+  margin-bottom: 11px;
+}
+p.what-is-design-text{
+  width: 535px;
+  font-family: Montserrat;
+  font-size: 18px;
+  color: #FFFFFF;
+  line-height: 28px;
+  letter-spacing: 0.2px;
+  font-weight: 300;
+}
+
+/*Text Attributes*/
+
