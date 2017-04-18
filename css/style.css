@@ -421,3 +421,14 @@ footer a:hover{
   color: #F8A372;
   text-decoration: none;
 }
+.socialmedia {
+  position: absolute;
+  text-align: right;
+  bottom: 110px;
+  right: 80px;
+  width: 200px;
+  height: 30px;
+}
+.socialmedia img{
+  padding: 15px;
+}
