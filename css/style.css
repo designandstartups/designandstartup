@@ -405,6 +405,7 @@ th, td {
   left: 120px;
   top: 155px;
   display: block;
+  z-index: 1;
 }
 .sponsor-text {
   color: #fff;
@@ -417,6 +418,7 @@ th, td {
   height: 40px;
   width: 300px;
   display: block;
+  z-index: 1;
 }
 footer a{
   color: #fff;
