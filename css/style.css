@@ -377,11 +377,11 @@ div.footer-logo{
 }
 
 .links-table{
-  width: 550px;
+  width: 1000px;
   height: 40px;
   position: absolute;
   bottom: 50px;
-  right: 80px;
+  left: 120px;
 }
 table{
   width: 100%;
@@ -396,6 +396,13 @@ th, td {
   font-size: 15px;
   color: #FFFFFF;
   letter-spacing: 0.82px;
+}
+
+th.spon{
+  text-align: left;
+  padding-left: 0px;
+  font-weight: 400;
+  
 }
 .sponsor {
   width: 300px;
@@ -536,8 +543,6 @@ text-shadow: 0 2px 4px rgba(0,0,0,0.57);
 .about-block {
   height: 750px;
   position: relative;
-  
-}
 }
 
 .blockquote {
@@ -622,7 +627,6 @@ a.button-orange:hover{
   color: #571573;
   border: 3px solid #571573;
 }
-}
 
 div.sponsors {
   color: #fff;
@@ -633,7 +637,6 @@ div.sponsors {
   left: 120px;
   display: block;
   z-index: 1;
-}
 }
 
 .sponsors-text {
@@ -655,5 +658,4 @@ div.sponsors {
 .stage-bg {
   background-image: url(/images/stage.png);
   background-size: cover;
-}
 }
