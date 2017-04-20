@@ -62,12 +62,12 @@ ul.nav{
     margin: 0px;
     padding: 0px;
 }
-li{
+li.menu-items{
     float: left;
     margin-left: 50px;
 }
 
-li a{
+li.menu-items a{
     display: block;
     padding-bottom: 10px;
     text-decoration: none;
@@ -78,7 +78,7 @@ li a{
     letter-spacing: 1.5px;
 }
 
-li a:active{
+li .active{
   border-bottom: 3px solid #fff;
 }
 
@@ -430,4 +430,80 @@ footer a:hover{
 }
 .socialmedia img{
   padding: 15px;
+}
+.about-bg {
+  background-image: url(/images/people.png);
+  background-size: cover;
+}
+
+.small-logo {
+  font-family: Montserrat-Medium;
+  font-size: 40px;
+  color: #fff;
+  letter-spacing: 0.93px;
+  line-height: 44px;
+  position: absolute;
+  left: 115px;
+  top: 0px;
+  text-shadow: 0 2px 4px rgba(0,0,0,0.27);
+}
+
+a.home{
+  color: #fff;
+  text-decoration: none;
+}
+
+div.above-text {
+  width: 785px;
+  height: 141px;
+  position: absolute;
+  left: 115px;
+  top: 150px;
+}
+
+p.above-text{
+  font-family: Montserrat-Medium;
+  font-size: 35px;
+  color: #FFFFFF;
+  letter-spacing: 1.05px;
+  line-height: 47px;
+  text-shadow: 1px 2px 5px rgba(0,0,0,0.38);
+}
+.about {
+  position: relative;
+  left: 110px;
+  top: 80px;
+  width: 400px;
+}
+
+.subtitle {
+  /* ABOUT: */
+  font-family: Montserrat-Medium;
+  font-size: 30px;
+  color: #2C2C2C;
+  letter-spacing: 2.6px;
+  line-height: 32px;
+  margin-bottom: 60px;
+}
+
+.subtitle span{
+  font-size: 45px;
+  position: relative; 
+  top: 3px;
+}
+.about-info {
+  font-family: Montserrat-Regular;
+  font-size: 18px;
+  color: #571573;
+  line-height: 28px;
+}
+
+.shadow {
+text-shadow: 0 2px 4px rgba(0,0,0,0.57);
+}
+
+.about-img {
+  position: absolute;
+  top: 60px;
+  left: 465px;
 }
