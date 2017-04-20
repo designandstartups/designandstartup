@@ -404,6 +404,7 @@ th, td {
   bottom: 50px;
   left: 120px;
   top: 155px;
+  display: block;
 }
 .sponsor-text {
   color: #fff;
@@ -415,6 +416,7 @@ th, td {
   letter-spacing: 0.82px;
   height: 40px;
   width: 300px;
+  display: block;
 }
 footer a{
   color: #fff;
