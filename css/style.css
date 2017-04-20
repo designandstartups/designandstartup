@@ -597,3 +597,17 @@ b {
 .about-info a:hover{
   color: #F8A372;
 }
+
+
+.button-orange {
+  font-family: Montserrat;
+  font-weight: 300;
+  font-size: 25px;
+  color: #E68A55;
+  letter-spacing: 1.85px;
+  text-decoration: none;
+  line-height: 50px;
+  padding: 20px 60px 20px 60px;
+  border: 3px solid #E68A55;
+}
+}
