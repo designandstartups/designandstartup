@@ -403,6 +403,7 @@ th, td {
   position: absolute;
   bottom: 50px;
   left: 120px;
+  top: 155px;
 }
 .sponsor-text {
   color: #fff;
@@ -602,7 +603,7 @@ b {
 }
 
 
-.button-orange {
+a.button-orange {
   font-family: Montserrat;
   font-weight: 300;
   font-size: 25px;
