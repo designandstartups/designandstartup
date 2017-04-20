@@ -240,7 +240,7 @@ a.learn-more:hover{
 }
 
 .joe-info{
-  width: 400px;
+  width: 500px;
   height: 200px;
   position: absolute;
   right: 525px;
@@ -628,17 +628,6 @@ a.button-orange:hover{
   border: 3px solid #571573;
 }
 
-div.sponsors {
-  color: #fff;
-  width: 300px;
-  height: 40px;
-  position: absolute;
-  bottom: 50px;
-  left: 120px;
-  display: block;
-  z-index: 1;
-}
-
 .sponsors-text {
   text-align: left;
   font-family: Montserrat;
@@ -648,7 +637,6 @@ div.sponsors {
   height: 50px;
   width: 300px; 
 }
-}
 
 .speaker-bg {
   background-image: url(/images/stage.png);
@@ -656,6 +644,85 @@ div.sponsors {
 }
 
 .stage-bg {
-  background-image: url(/images/stage.png);
+  background-image: url(/images/speakers-page.png);
   background-size: cover;
+}
+
+.alexa-color {
+  background-image: url(/images/alexa.jpg);
+  background-size: cover;
+  height: 400px;
+  width: 308px;
+  position: absolute;
+  top: 200px;
+  left: 165px;
+}
+
+.orangetitle {
+  color: #F8965E;
+}
+
+.name-orange {
+  font-family: Montserrat-Medium;
+  font-size: 80px;
+  color: #F8965E;
+  letter-spacing: 2.49px;
+  line-height: 89px;
+}
+
+.alexa-info-2 {
+  width: 500px;
+  height: 200px;
+  position: absolute;
+  left: 525px;
+  top: 400px;
+}
+
+
+.about-speaker {
+  font-family: Montserrat-Regular;
+  font-size: 14px;
+  color: #2C2C2C;
+  line-height: 25px;
+}
+
+.shorter {
+  top: 30px;
+}
+
+.shorter2 {
+  top: 220px;
+}
+
+.joe-color {
+  background-image: url(/images/joe.jpg);
+  background-size: cover;
+  height: 400px;
+  width: 308px;
+  position: absolute;
+  top: 5px;
+  right: 165px;
+}
+
+.braden-image-2 {
+  background-image: url(/images/brandon.jpg);
+  background-size: cover;
+  height: 400px;
+  width: 308px;
+  position: absolute;
+  top: 20px;
+  left: 165px;
+}
+
+.shorter1 {
+  top: 130px;
+}
+
+.shorter-braden {
+  top: 30px;
+}
+
+.joe2 {
+  position: relative;
+  height: 500px;
 }
