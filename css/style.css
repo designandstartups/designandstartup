@@ -412,6 +412,8 @@ th, td {
   font-size: 15px;
   color: #FFFFFF;
   letter-spacing: 0.82px;
+  height: 40px;
+  width: 300px;
 }
 footer a{
   color: #fff;
