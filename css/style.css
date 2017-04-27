@@ -213,7 +213,7 @@ a.learn-more:hover{
 .state-of-mind span{
   line-height: 80px;
 }
-
+/** Speaker Photos + Details **/
 .alexa{
   position: relative;
   height: 700px;
@@ -270,6 +270,7 @@ p.quote{
   color: #FFFFFF;
   letter-spacing: 2px;
   line-height: 34px;
+  width: 460px;
 }
 
 .name{
@@ -327,6 +328,8 @@ p.quote{
   top: 110px;
 }
 
+/** Call to action button **/
+
 .call-to-action{
   text-align: center;
 }
@@ -334,7 +337,7 @@ p.quote{
 a.button{
   font-family: Montserrat;
   font-weight: 300;
-  font-size: 25px;
+  font-size: 20px;
   color: #FFFFFF;
   letter-spacing: 1.85px;
   text-decoration: none;
@@ -346,7 +349,7 @@ a.button{
 a.button:hover{
   font-family: Montserrat;
   font-weight: 300;
-  font-size: 25px;
+  font-size: 20px;
   color: #571573;
   letter-spacing: 1.85px;
   text-decoration: none;
@@ -354,6 +357,8 @@ a.button:hover{
   padding: 20px 60px 20px 60px;
   border: 3px solid #571573;
 }
+
+/** Footer **/
 footer {
   height: 255px;
   margin-top: 150px;
@@ -461,6 +466,8 @@ footer a:hover{
   top: 0px;
   text-shadow: 0 2px 4px rgba(0,0,0,0.27);
 }
+
+/** About Page **/
 
 a.home{
   color: #fff;
@@ -610,11 +617,11 @@ b {
   color: #F8A372;
 }
 
-
+/** Orange Call to action button **/
 a.button-orange {
   font-family: Montserrat;
   font-weight: 300;
-  font-size: 25px;
+  font-size: 20px;
   color: #E68A55;
   letter-spacing: 1.85px;
   text-decoration: none;
@@ -638,6 +645,7 @@ a.button-orange:hover{
   width: 300px; 
 }
 
+/** above fold images **/
 .speaker-bg {
   background-image: url(/images/stage.png);
   background-size: cover;
@@ -648,6 +656,7 @@ a.button-orange:hover{
   background-size: cover;
 }
 
+/** Speaker Page **/
 .alexa-color {
   background-image: url(/images/alexa.jpg);
   background-size: cover;
@@ -725,4 +734,125 @@ a.button-orange:hover{
 .joe2 {
   position: relative;
   height: 500px;
+}
+
+.shorterspeaker {
+  top: 180px;
+}
+
+/** Speaker Page **/
+
+.noshadow {
+  text-shadow: none;
+}
+
+.schedule-break {
+  background-color: #fff;
+  height: 250px;
+  position: relative;
+}
+
+.schedule-info {
+  position: relative;
+  left: 260px;
+  top: 50px;
+  width: 850px;
+}
+
+.schedule-time {
+  font-family: Montserrat-Medium;
+  font-size: 44px;
+  color: #571573;
+  letter-spacing: 2.53px;
+}
+
+.schedule-title {
+  font-family: Montserrat;
+  font-weight: 300;
+  font-size: 20px;
+  color: #571573;
+  letter-spacing: 1.61px;
+  margin-top: -30px; 
+}
+
+.schedule-kowitz {
+  height: 370px;
+  margin-top: -45px;
+  position: relative;
+}
+
+.white {
+  color: #fff;
+}
+
+.schedule-details {
+  font-family: Montserrat;
+  font-size: 18px;
+  color: #131313;
+  line-height: 28px;
+  width: 800px;
+}
+
+.purple {
+  color: #571573;
+}
+
+a.orangehover{
+  text-decoration: none;
+}
+
+a.orangehover:hover{
+  color: #fff;
+}
+
+.schedule-lunches {
+  background-color: #fff;
+  height: 270px;
+  position: relative;
+  margin-top: -45px;
+}
+
+.height-270 {
+  height: 270px;
+}
+
+.height-450 {
+  height: 400px;
+}
+
+.button-margin {
+  position: relative;
+  top: 100px;
+  height: 140px;
+}
+
+.schedule-line{
+  position: absolute;
+  height: 2370px;
+  left: 170px;
+  top: 290px;
+  border-right: 8px solid #581573;
+  z-index: 1;
+}
+
+.bulletpoint {
+  color: #571573;
+  position: absolute;
+  font-size: 150px;
+  left: 154px;
+  top: -27px;
+  z-index: 1;
+}
+
+.speakerlink {
+  color: white;
+  text-decoration: none;
+}
+
+.speakerhover {
+  text-decoration: none;
+}
+
+.speakerhover:hover{
+  color: #F27B98;
 }
