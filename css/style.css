@@ -43,7 +43,8 @@ home-logo{
     position: relative;
 }
 .big-logo{
-    font-family: Montserrat-Medium;
+    font-family: Montserrat;
+    font-weight: 500;
     font-size: 59px;
     color: #FFFFFF;
     letter-spacing: 1.5px;
@@ -113,7 +114,8 @@ div.date{
     left: 170px;
 }
 p.home-date{
-    font-family: Montserrat-Medium;
+    font-family: Montserrat;
+    font-weight: 500;
     font-size: 32px;
     color: #FFFFFF;
     letter-spacing: 7.5px;
@@ -134,7 +136,8 @@ div.place{
 }
 
 .home-place span{
-    font-family: Montserrat-SemiBold;
+    font-family: Montserrat;
+    font-weight: 400;
 }
 
 .arrow{
@@ -176,7 +179,8 @@ div.place{
   left: 115px;
 }
 p.what-is-design{
-  font-family: Montserrat-Medium;
+  font-family: Montserrat;
+	font-weight: 400;
   font-size: 40px;
   color: #FFFFFF;
   letter-spacing: 1px;
@@ -241,7 +245,8 @@ a.learn-more:hover{
   top: 400px;
 }
 .state-of-mind{
-  font-family: Montserrat-Medium;
+  font-family: Montserrat;
+	font-weight: 500;
   font-size: 53px;
   color: #FFFFFF;
   letter-spacing: 1.59px;
@@ -307,7 +312,7 @@ p.founder{
 }
 
 p.quote{
-  font-family: Montserrat-Regular;
+  font-family: Montserrat;
   font-size: 20px;
   color: #FFFFFF;
   letter-spacing: 2px;
@@ -315,7 +320,8 @@ p.quote{
 }
 
 .name{
-  font-family: Montserrat-Medium;
+  font-family: Montserrat;
+	font-weight: 500;
   font-size: 80px;
   color: #FFFFFF;
   letter-spacing: 2.49px;
@@ -433,7 +439,8 @@ div.footer-logo{
 }
 
 .footer-logo {
-  font-family: Montserrat-Medium;
+  font-family: Montserrat;
+	font-weight: 500;
   font-size: 40px;
   color: #F7F0FF;
   letter-spacing: 0.93px;
@@ -515,7 +522,8 @@ footer a:hover{
 }
 
 .small-logo {
-  font-family: Montserrat-Medium;
+  font-family: Montserrat;
+	font-weight: 500;
   font-size: 40px;
   color: #fff;
   letter-spacing: 0.93px;
@@ -542,7 +550,8 @@ div.above-text {
 }
 
 p.above-text{
-  font-family: Montserrat-Medium;
+  font-family: Montserrat;
+	font-weight: 500;
   font-size: 35px;
   color: #FFFFFF;
   letter-spacing: 1.05px;
@@ -558,7 +567,8 @@ p.above-text{
 
 .subtitle {
   /* ABOUT: */
-  font-family: Montserrat-Medium;
+  font-family: Montserrat;
+	font-weight: 500;
   font-size: 30px;
   color: #2C2C2C;
   letter-spacing: 2.6px;
@@ -572,7 +582,7 @@ p.above-text{
   top: 3px;
 }
 .about-info {
-  font-family: Montserrat-Regular;
+  font-family: Montserrat;
   font-size: 18px;
   color: #571573;
   line-height: 28px;
@@ -590,7 +600,8 @@ text-shadow: 0 2px 4px rgba(0,0,0,0.57);
 
 .thequote {
   /* A company that is de: */
-  font-family: Montserrat-Medium;
+  font-family: Montserrat;
+	font-weight: 400;
   font-size: 25px;
   color: #FFFFFF;
   letter-spacing: 1px;
@@ -633,7 +644,8 @@ text-shadow: 0 2px 4px rgba(0,0,0,0.57);
 
 .katiedill {
   /* — Katie Dill Head of: */
-  font-family: Montserrat-Medium;
+  font-family: Montserrat;
+	font-weight: 500;
   font-size: 18px;
   color: #FFFFFF;
   letter-spacing: 0.6px;
@@ -741,7 +753,8 @@ a.button-orange:hover{
 }
 
 .name-orange {
-  font-family: Montserrat-Medium;
+  font-family: Montserrat;
+	font-weight: 500;
   font-size: 80px;
   color: #F8965E;
   letter-spacing: 2.49px;
@@ -758,7 +771,7 @@ a.button-orange:hover{
 
 
 .about-speaker {
-  font-family: Montserrat-Regular;
+  font-family: Montserrat;
   font-size: 14px;
   color: #2C2C2C;
   line-height: 25px;
@@ -829,7 +842,8 @@ a.button-orange:hover{
 }
 
 .schedule-time {
-  font-family: Montserrat-Medium;
+  font-family: Montserrat;
+	font-weight: 500;
   font-size: 44px;
   color: #571573;
   letter-spacing: 2.53px;
