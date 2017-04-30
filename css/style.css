@@ -37,6 +37,7 @@ div.row:after {
 header.home-navigation{
     position: relative;
     height: 250px;
+		margin-top: 0px;
 }
 
 home-logo{
@@ -870,6 +871,7 @@ a.button-orange:hover{
 
 .schedule-details {
   font-family: Montserrat;
+	font-weight: 400;
   font-size: 18px;
   color: #131313;
   line-height: 28px;
@@ -944,4 +946,8 @@ a.orangehover:hover{
 
 .rightalign {
   text-align: right;
+}
+
+.shorts {
+	top: -30px;
 }
