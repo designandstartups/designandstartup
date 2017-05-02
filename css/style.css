@@ -524,7 +524,7 @@ footer a:hover{
 }
 
 .about-bg {
-  background-image: url(/images/people.png);
+  background-image: url(/images/people.jpg);
   background-size: cover;
 }
 
@@ -740,7 +740,7 @@ a.button-orange:hover{
 }
 
 .stage-bg {
-  background-image: url(/images/speakers-page.png);
+  background-image: url(/images/speakers-page.jpg);
   background-size: cover;
 }
 
