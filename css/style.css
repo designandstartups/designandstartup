@@ -375,6 +375,11 @@ p.quote{
   left: 165px;
 }
 
+.braden-image:hover{
+  background-blend-mode: screen;
+  background-color: #F48A89;
+}
+
 .left-title2 {
   position: absolute;
   left: 435px;
@@ -509,14 +514,15 @@ footer a:hover{
 .socialmedia {
   position: absolute;
   text-align: right;
-  bottom: 110px;
-  right: 80px;
-  width: 200px;
+  bottom: 100px;
+  right: 90px;
+  width: 135px;
   height: 30px;
 }
 .socialmedia img{
   padding: 15px;
 }
+
 .about-bg {
   background-image: url(/images/people.png);
   background-size: cover;
@@ -950,4 +956,64 @@ a.orangehover:hover{
 
 .shorts {
 	top: -30px;
+}
+
+a.alicetully {
+	text-decoration: none;
+	color: #fff;
+}
+
+a.alicetully:hover{
+	color: #F8A372;
+}
+
+.twitter{
+	float: left;
+	margin-right: 40px;
+	margin-top: 2px;
+	background-image: url(/images/twitter.png);
+	background-size: cover;
+	width: 20px;
+	height: 17px;
+}
+.twitter:hover {
+	background-image: url(/images/twitter_hover.png);
+	background-size: cover;
+	width: 20px;
+	height: 17px;
+}
+
+.fb{
+	float: left;
+	margin-right: 40px;
+	background-image: url(/images/fb.png);
+	background-size: cover;
+	width: 11px;
+	height: 20px;
+}
+.fb:hover{
+	background-image: url(/images/fb_hover.png);
+	background-size: cover;
+	width: 11px;
+	height: 20px;
+}
+
+.paddings {
+	
+}
+
+.insta {
+	float: left;
+	background-image: url(/images/insta.png);
+	background-size: cover;
+	width: 20px;
+	height: 20px;
+}
+
+.insta:hover{
+	float: left;
+	background-image: url(/images/insta_hover.png);
+	background-size: cover;
+	width: 20px;
+	height: 20px;
 }
