@@ -1,5 +1,6 @@
 @import url('https://fonts.googleapis.com/css?family=Montserrat:300,400,500,600');
 
+
 html{
     font-family: 'Montserrat', sans-serif;
     box-sizing: border-box;
@@ -619,7 +620,7 @@ text-shadow: 0 2px 4px rgba(0,0,0,0.57);
 .thequote {
   /* A company that is de: */
   font-family: Montserrat;
-	font-weight: 400;
+	font-weight: 500;
   font-size: 25px;
   color: #FFFFFF;
   letter-spacing: 1px;
