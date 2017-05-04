@@ -35,7 +35,7 @@ div.row:after {
 
 /**Navigation Bar**/
 .above{
-    height: 100vh;
+    min-height: 100vh;
 }
 
 header.home-navigation{
